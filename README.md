@@ -1,7 +1,9 @@
-Alfred-Say-Text
+Alfred Say Text
 ===============
 
-Start speaking a piece of text without leaving Alfred
+Start speaking a piece of text without leaving Alfred.
+
+![mic icon](https://dl.dropbox.com/u/1833867/alfredapp-say.ico)
 
 Usage
 -----
