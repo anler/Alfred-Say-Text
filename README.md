@@ -3,7 +3,7 @@ Alfred Say Text
 
 Start speaking a piece of text without leaving Alfred.
 
-![mic icon](https://dl.dropbox.com/u/1833867/alfredapp-say.ico)
+![preview](https://dl.dropbox.com/u/1833867/alfredapp-say-preview.png)
 
 Usage
 -----
